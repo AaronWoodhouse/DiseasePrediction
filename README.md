@@ -1,5 +1,6 @@
 # About
-Disease prediction based on experienced symptoms
+Disease prediction based on experienced symptoms.
+
 Uses a very basic linear classifier to determine the likely disease
 
 Data used for this project can be found here:
